@@ -28,6 +28,7 @@ body{
     background-color: rgba(255, 235, 205, 0.366);
     border: 2px solid brown;
     text-align: center;
+    color: black;
 }
 
 .buttons{
